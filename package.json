@@ -1,0 +1,23 @@
+{
+  "name": "fibonacci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kliastro13/Fibonacci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kliastro13/Fibonacci/issues"
+  },
+  "homepage": "https://github.com/kliastro13/Fibonacci#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {}
+}
