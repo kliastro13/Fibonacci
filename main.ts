@@ -1,1 +1,4 @@
-console.log("Hello World");
+import { FibonacciBuilder } from "./modules/FibonacciBuilder";
+
+const fibonacci = new FibonacciBuilder();
+fibonacci.showFibonacci();
